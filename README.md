@@ -25,13 +25,5 @@ Built with **Next.js (App Router)**, **Supabase**, and **Stripe**.
 - **Backend / API:** Next.js Server Actions & API Routes  
 - **Database:** [Supabase](https://supabase.com/) (Postgres + Auth + Storage)  
 - **Payments:** [Stripe Checkout](https://stripe.com/)  
-- **Deployment:** [Vercel](https://vercel.com/)  
 
 ---
-
-## 🛠️ Installation
-
-Clone the repository:
-```bash
-git clone https://github.com/USERNAME/dropshipping-store.git
-cd dropshipping-store
